@@ -4,7 +4,7 @@
 - This README provides a comprehensive overview of **Shreesha's Secure Digital Hub** Project.
 - **As this is a secure and feature-rich project, it is kept private. For more information or to request access, please contact: shreeshapilinja@gmail.com**
 - Try out this website here (using sqlite3 database): [https://securehub.onrender.com/](https://securehub.onrender.com/)
-- Try out this website here (using mysql database): [https://securehub.onrender.com/](https://securehub.onrender.com/)
+- Try out this website here (using mysql database): [https://securehub.pythonanywhere.com/](https://securehub.pythonanywhere.com/)
 
 ### Table of Contents
 
